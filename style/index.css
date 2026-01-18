@@ -63,5 +63,7 @@ ul li a{
 }
 .banner{
     height: 760px;
-    background-image: url();
+    background-image: url(../assets/hero-bg.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
