@@ -108,7 +108,8 @@ ul li a {
 .btn-new {
     position: absolute;
     top: 12px;
-    right: 123px;
+    /* right: 123px; */
+    right: 25%;
     width: 75px;
     height: 38px;
     border: none;
@@ -431,7 +432,8 @@ footer{
     
     }
     .btn-new{
-        right: 150px;
+        /* right: 150px; */
+        right: 30%;
         top:40px
     }
     .banner-container .title{
